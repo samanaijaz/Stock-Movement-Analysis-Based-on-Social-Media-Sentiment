@@ -39,7 +39,7 @@ This project predicts stock prices and movements by combining historical data wi
 
 4. Run the application:
     ```bash
-    python app.py
+    python stock movement analysis.py
 
 ---
 
